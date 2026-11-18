@@ -4,8 +4,8 @@ date: 2021-10-09
 tags: ["blog", "indonesia", "blogger"]
 author: "admin@sudarblogger.com"
 excerpt: "Joko Yugianto adalah blogger yogjakarta, dia adalah founder kanaljogja.id salah satu portal berita lokal asal jogja"
-img: "joko1"
-thumb: "joko"
+img: "joko"
+thumb: "joko1"
 ---
 
 Selamat Pagi, selamat sore, selamat malam bagi kalian yang membaca blog ini tergantung waktu nya. Nah kali ini saya akan share seorang blogger yang mana semangati saya dimana saat ngeblog hingga bisa bertahan hingga saat ini.
