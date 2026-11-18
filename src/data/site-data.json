@@ -92,7 +92,7 @@
       "logoAlt": "Sudar Blogger"
     },
     "footer": {
-      "companyBlurb": "A tiny EU-based software company, building backend and serverless solutions.",
+      "companyBlurb": "Blog yang menceritakan tentang pengalaman dan tutorial di dunia blog selama 9 tahun.",
       "mapLabel": "Location",
       "addressLabel": "Address",
       "imprint": "Imprint",
@@ -155,7 +155,7 @@
       ],
       "logoAlt": "Sudar Blogger",
       "mapAlt": "Sudar Blogger Office Location",
-      "mapLinkLabel": "Open Erudika office location in Google Maps"
+      "mapLinkLabel": "Open Sudar office location in Google Maps"
     },
     "components": {
       "projectDetail": {
@@ -207,11 +207,11 @@
       "about": {
         "eyebrow": "About Sudar Blogger",
         "title": "Blogger Lamongan, based in the Indonesia",
-        "body1": "Sudar is an independent software shop, based in Sofia, Bulgaria. As Eastern Europeans, we are capable of achieving optimal results with limited resources and that's reflected in our software. We work with the latest software stacks and we know cloud infrastructure well.",
-        "body2": "We focus on security, performance, privacy, and shipping quality products. We're open to collaboration and we'd love to hear from you!",
+        "body1": "Perkenalkan Nama saya sudarmanto, atau orang memanggil saya sudar saya tinggal di pelosok desa di daerah lamongan yaitu Desa Kedungmentawar Kecamatan Ngimbang, Kabupaten Lamongan..",
+        "body2": "Pertama membuat blog pada tahun 2017 yang mana awal pertama menggunakan domain TLD, dan di tahun itu lah awal mulai mengenal dunia blogger sesungguh nya",
         "detailsTitle": "Company details",
         "emailMe": "Email me directly!",
-        "imprint": "Imprint / Impressum",
+        "imprint": "Privacy / Privacy",
         "details": [
           {
             "label": "Legal Entity",
@@ -219,7 +219,7 @@
           },
           {
             "label": "Address",
-            "value": "4 Lelinska chuka Street, Sofia 1618, Bulgaria"
+            "value": "Lamongan, Jawa Timur, Indonesia"
           },
           {
             "label": "VAT Number",
@@ -227,7 +227,7 @@
           },
           {
             "label": "Legal representative (МОЛ)",
-            "value": "Alexander Bogdanovski"
+            "value": Nauval Sudarmanto"
           }
         ],
         "impact": {
@@ -240,7 +240,7 @@
             },
             {
               "label": "Years shipping",
-              "value": "17+",
+              "value": "9+",
               "description": "Independent, bootstrapped & profitable"
             },
             {
@@ -259,10 +259,10 @@
           "eyebrow": "Key people",
           "people": [
             {
-              "name": "Sudar Blogger",
+              "name": "Nauval Sudarmanto",
               "role": "Founder & Travell Blogger",
               "email": "admin@sudarblogger",
-              "avatar": "ab",
+              "avatar": "lg",
               "instgram": "https://instagram.com/sudarblogger",
               "github": "https://github.com/kangsudarid",
               "bio": "9+ years building backend infrastructure. Creator of Para and Scoold.",
