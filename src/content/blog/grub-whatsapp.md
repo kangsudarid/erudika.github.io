@@ -7,7 +7,6 @@ excerpt: "Bergabung Grub BlogwalkingAsyik, Bisa Bertemu Senior Blogger"
 img: "whatsapp1"
 thumb: "whatsapp"
 ---
----
 
 Awal ngeblog itu saya sendiri itu pada 2017 yang mana memulai dengan menggunakan domain TLD untuk pertama kali nya dengan nama Nauval.net.
 
