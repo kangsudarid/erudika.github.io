@@ -1,8 +1,8 @@
 {
   "hero": {
     "eyebrow": "Personal Website",
-    "title": "Blogger Traveller and Writter.",
-    "subtitle": "Sudar Blogger is an independent software company specializing in backend and serverless technologies. We design and build scalable cloud-native systems, with a strong commitment to open-source software.",
+    "title": "Blogger Traveller and Writer.",
+    "subtitle": "Website yang menceritakan pengalaman, tutorial, notes yang pernah saya alami selama menjadi blogger selama ini.",
     "badges": [
       {
         "label": "\ud83c\udfc6 9+ years in the industry",
@@ -138,15 +138,15 @@
       "social": [
         {
           "label": "GitHub",
-          "href": "https://github.com/Erudika"
+          "href": "https://github.com/kangsudarid"
         },
         {
           "label": "Docker Hub",
           "href": "https://hub.docker.com/u/erudikaltd"
         },
         {
-          "label": "X.com",
-          "href": "https://x.com/erudika"
+          "label": "Instagram",
+          "href": "https://instagram.com/sudarblogger"
         },
         {
           "label": "LinkedIn",
@@ -154,7 +154,7 @@
         }
       ],
       "logoAlt": "Sudar Blogger",
-      "mapAlt": "Erudika Office Location",
+      "mapAlt": "Sudar Blogger Office Location",
       "mapLinkLabel": "Open Erudika office location in Google Maps"
     },
     "components": {
@@ -206,8 +206,8 @@
       },
       "about": {
         "eyebrow": "About Sudar Blogger",
-        "title": "A tiny software company, based in the EU",
-        "body1": "Erudika is an independent software shop, based in Sofia, Bulgaria. As Eastern Europeans, we are capable of achieving optimal results with limited resources and that's reflected in our software. We work with the latest software stacks and we know cloud infrastructure well.",
+        "title": "Blogger Lamongan, based in the Indonesia",
+        "body1": "Sudar is an independent software shop, based in Sofia, Bulgaria. As Eastern Europeans, we are capable of achieving optimal results with limited resources and that's reflected in our software. We work with the latest software stacks and we know cloud infrastructure well.",
         "body2": "We focus on security, performance, privacy, and shipping quality products. We're open to collaboration and we'd love to hear from you!",
         "detailsTitle": "Company details",
         "emailMe": "Email me directly!",
