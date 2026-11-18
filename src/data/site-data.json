@@ -153,7 +153,7 @@
           "href": "https://www.linkedin.com/company/erudika"
         }
       ],
-      "logoAlt": "Erudika",
+      "logoAlt": "Sudar Blogger",
       "mapAlt": "Erudika Office Location",
       "mapLinkLabel": "Open Erudika office location in Google Maps"
     },
@@ -413,7 +413,7 @@
           {
             "id": "scoold-pro",
             "name": "Scoold Pro",
-            "title": "Scoold Pro | Erudika",
+            "title": "Scoold Pro | Sudar Blogger",
             "tagline": "Enterprise-ready Scoold with premium features and advanced auth flows (SAML, LDAP, OAuth2).",
             "description": "Scoold Pro - enterprise Q&A platform with SAML 2.0, LDAP, SCIM, and OAuth2 SSO. Advanced analytics, custom branding, and priority support. Self-hosted for full data control.",
             "category": "Self-Hosted",
@@ -447,7 +447,7 @@
           {
             "id": "robo-translator",
             "name": "Robo Translator",
-            "title": "Robo Translator | Erudika",
+            "title": "Robo Translator | Sudar Blogger",
             "tagline": "Human-friendly content localization workflows for busy content creators.",
             "description": "Robo Translator is a cloud service tool for content localization, translation and transcription. It does text-to-speech, speech-to-text and closed captions.",
             "category": "Cloud",
@@ -625,7 +625,7 @@
         "description": "Learn about Erudika, a tiny software company building Para, Scoold, and cloud services."
       },
       "projectsIndex": {
-        "title": "Erudika Projects",
+        "title": "Sudar Blogger Projects",
         "description": "Explore Para, Scoold, and Erudika's managed cloud services and open source projects."
       },
       "support": {
