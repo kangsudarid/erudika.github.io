@@ -5,7 +5,7 @@ tags: ["psht", "sht", "setia hati"]
 author: "admin@sudarblogger.com"
 excerpt: "Ikut SH Terate di Bayar Dengan Jualan Blog"
 img: "sht"
-thumb: "sht"
+thumb: "sht1"
 ---
 
 
