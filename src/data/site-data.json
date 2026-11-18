@@ -1,8 +1,8 @@
 {
   "hero": {
-    "eyebrow": "A tiny software company",
-    "title": "We ship performant software that runs in the cloud.",
-    "subtitle": "Erudika is an independent software company specializing in backend and serverless technologies. We design and build scalable cloud-native systems, with a strong commitment to open-source software.",
+    "eyebrow": "Personal Website",
+    "title": "Blogger Traveller and Writter.",
+    "subtitle": "Sudar Blogger is an independent software company specializing in backend and serverless technologies. We design and build scalable cloud-native systems, with a strong commitment to open-source software.",
     "badges": [
       {
         "label": "\ud83c\udfc6 17+ years in the industry",
@@ -54,7 +54,7 @@
         "avatarColor": "amber"
       },
       {
-        "quote": "Erudika's tiny team outpaced agencies 10x their size. The Astro migration felt invisible to our customers.",
+        "quote": "Sudar Blogger tiny team outpaced agencies 10x their size. The Astro migration felt invisible to our customers.",
         "author": "Leo Duarte",
         "role": "Director of Eng, Learnify",
         "avatarColor": "indigo"
@@ -89,7 +89,7 @@
       "tagsLabel": "Tags",
       "ctaLabel": "Contact Support",
       "menuLabel": "Menu",
-      "logoAlt": "Erudika"
+      "logoAlt": "Sudar Blogger"
     },
     "footer": {
       "companyBlurb": "A tiny EU-based software company, building backend and serverless solutions.",
@@ -97,9 +97,9 @@
       "addressLabel": "Address",
       "imprint": "Imprint",
       "addressLines": [
-        "Erudika LTD.",
-        "4 Lelinska chuka Street",
-        "Sofia 1618, Bulgaria",
+        "Sudar Blogger LTD.",
+        "Ngimbang, Lamongan",
+        "Jawa Timur, Indonesia",
         "Imprint"
       ],
       "linksLabel": "Links",
@@ -205,7 +205,7 @@
         "contactLabel": "Contact"
       },
       "about": {
-        "eyebrow": "About Erudika",
+        "eyebrow": "About Sudar Blogger",
         "title": "A tiny software company, based in the EU",
         "body1": "Erudika is an independent software shop, based in Sofia, Bulgaria. As Eastern Europeans, we are capable of achieving optimal results with limited resources and that's reflected in our software. We work with the latest software stacks and we know cloud infrastructure well.",
         "body2": "We focus on security, performance, privacy, and shipping quality products. We're open to collaboration and we'd love to hear from you!",
@@ -313,7 +313,7 @@
           {
             "id": "para",
             "name": "Para",
-            "title": "Para | Erudika",
+            "title": "Para | Sudar Blogger",
             "tagline": "The open-source backend server for busy developers",
             "description": "Para helps teams prototype rapidly and ship internal tools and CRUD applications by providing a full-featured backend service.",
             "category": "Open Source",
@@ -518,9 +518,9 @@
         "thanks_msg": "We've received your message and will get back to you soon.",
         "title": "Get in touch with us",
         "body": "We respond quickly across GMT/EET hours. Reach out for product questions, trials, or support.",
-        "address": "4 Lelinska chuka Street, Sofia 1618, Bulgaria",
-        "phone": "+359 886 000 995",
-        "email": "support@erudika.com",
+        "address": "Lamongan, Jawa Timur, Indonesia",
+        "phone": "+6281-3574-5414",
+        "email": "admin@sudarblogger.com",
         "formTitle": "Start a conversation",
         "formBody": "Prefer email? We answer within one business day.",
         "formNote": "By the way, this form is handled by our backend server Para!",
@@ -539,13 +539,13 @@
       },
       "blogIndex": {
         "eyebrow": "Blog",
-        "title": "Engineering notes and product updates",
+        "title": "Catatan harian blog kangsudar",
         "body": "Long-form posts about Para, Scoold, and the infrastructure that powers them.",
         "tagsCta": "Browse by tag \u2192"
       },
       "blogPage": {
         "eyebrow": "Blog",
-        "title": "Engineering notes and product updates",
+        "title": "Catatan Harian blog kang sudar",
         "body": "Long-form posts about Para, Scoold, and the infrastructure that powers them.",
         "tagsCta": "Browse by tag \u2192",
         "author": "About the author"
@@ -617,11 +617,11 @@
     },
     "meta": {
       "home": {
-        "title": "Erudika | A tiny software company",
+        "title": "Sudar Blogger | Personal Website",
         "description": "A tiny EU-based software company, building backend and serverless solutions."
       },
       "about": {
-        "title": "About Erudika",
+        "title": "About Sudar Blogger",
         "description": "Learn about Erudika, a tiny software company building Para, Scoold, and cloud services."
       },
       "projectsIndex": {
@@ -629,31 +629,31 @@
         "description": "Explore Para, Scoold, and Erudika's managed cloud services and open source projects."
       },
       "support": {
-        "title": "Support | Erudika",
+        "title": "Support | Sudar Blogger",
         "description": "Support plans for Para and Scoold with SLA-backed response times."
       },
       "contact": {
-        "title": "Contact Erudika",
+        "title": "Contact Sudar Blogger",
         "description": "Contact Erudika for product questions, support, and partnerships."
       },
       "blogIndex": {
-        "title": "Erudika Blog",
+        "title": "Sudar Blog",
         "description": "Release notes, architecture deep-dives, engineering notes and insights from Erudika."
       },
       "privacy": {
-        "title": "Privacy Policy | Erudika",
+        "title": "Privacy Policy | Sudar Blogger",
         "description": "Erudika privacy policy and data handling practices."
       },
       "gdprDpa": {
-        "title": "Data Processing Agreement | Erudika",
+        "title": "Data Processing Agreement | Sudar Blogger",
         "description": "Erudika GDPR Data Processing Agreement - compliant with EU data protection regulations for cloud and self-hosted deployments."
       },
       "imprint": {
-        "title": "Imprint | Erudika",
+        "title": "Imprint | Sudar Blogger",
         "description": "Legal imprint for Erudika EOOD, an EU-based software company in Sofia, Bulgaria."
       },
       "terms": {
-        "title": "Terms of Service | Erudika",
+        "title": "Terms of Service | Sudar Blogger",
         "description": "Erudika terms of service and usage guidelines."
       },
       "blogPage": {
@@ -661,7 +661,7 @@
         "description": "Release notes, architecture deep dives, and backend insights from Erudika."
       },
       "blogTags": {
-        "title": "Blog Tags | Erudika",
+        "title": "Blog Tags | Sudar Blogger",
         "description": "Explore Erudika blog posts by tag."
       },
       "blogTag": {
@@ -670,10 +670,10 @@
       }
     },
     "organization": {
-      "name": "Erudika",
-      "url": "https://erudika.com",
-      "logo": "https://erudika.com/logo.png",
-      "email": "support@erudika.com",
+      "name": "Sudar Blogger",
+      "url": "https://www.sudarblogger.com",
+      "logo": "https://www.sudarblogger.com/logo.png",
+      "email": "admin@sudarblogger.com",
       "address": {
         "street": "4 Lelinska chuka Street",
         "locality": "Sofia",
