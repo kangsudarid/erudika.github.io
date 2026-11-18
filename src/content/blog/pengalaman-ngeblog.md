@@ -4,8 +4,8 @@ date: 2022-12-25
 tags: ["blog", "blogger", "writter"]
 author: "admin@sudarblogger.com"
 excerpt: "Bergabung Grub BlogwalkingAsyik, Bisa Bertemu Senior Blogger"
-img: "writter"
-thumb: "writter1"
+img: "writter1"
+thumb: "writter"
 ---
 
 Menjadi Blogger adalah Jalan Hidupku, bagi kalian yang tau animasi naruto taulah kata - kata Menjadi Hokage Adalah Ninjaku, kutipan tersebut menjadi inspirasi saya terus ngeblog hingga saat ini. 
