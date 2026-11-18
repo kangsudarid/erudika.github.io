@@ -130,7 +130,7 @@
         },
         {
           "label": "\ud83d\udfe2 Status Page",
-          "href": "https://status.erudika.com"
+          "href": "https://status.sudarblogger.com"
         }
       ],
       "themeLabel": "Theme",
@@ -259,14 +259,14 @@
           "eyebrow": "Key people",
           "people": [
             {
-              "name": "Alexander Bogdanovski",
-              "role": "Founder & Indie Hacker",
-              "email": "alex@erudika.com",
+              "name": "Sudar Blogger",
+              "role": "Founder & Travell Blogger",
+              "email": "admin@sudarblogger",
               "avatar": "ab",
-              "linkedin": "https://bg.linkedin.com/in/albogdano",
-              "github": "https://github.com/albogdano",
-              "bio": "17+ years building backend infrastructure. Creator of Para and Scoold.",
-              "yearsExperience": 17
+              "instgram": "https://instagram.com/sudarblogger",
+              "github": "https://github.com/kangsudarid",
+              "bio": "9+ years building backend infrastructure. Creator of Para and Scoold.",
+              "yearsExperience": 9
             }
           ]
         }
