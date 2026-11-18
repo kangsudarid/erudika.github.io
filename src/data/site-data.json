@@ -5,7 +5,7 @@
     "subtitle": "Sudar Blogger is an independent software company specializing in backend and serverless technologies. We design and build scalable cloud-native systems, with a strong commitment to open-source software.",
     "badges": [
       {
-        "label": "\ud83c\udfc6 17+ years in the industry",
+        "label": "\ud83c\udfc6 9+ years in the industry",
         "description": "Independent & profitable"
       },
       {
@@ -215,7 +215,7 @@
         "details": [
           {
             "label": "Legal Entity",
-            "value": "Erudika EOOD"
+            "value": "Sudar Blogger EOOD"
           },
           {
             "label": "Address",
@@ -279,7 +279,7 @@
           {
             "id": "scoold",
             "name": "Scoold",
-            "title": "Scoold | Erudika",
+            "title": "Scoold | Sudar Blogger",
             "tagline": "Knowledge sharing for your team, inspired by the Stack Exchange platform",
             "description": "Scoold is open source and works great as a questions-and-answer platform, forum, knowledge base or customer support system. Self-hosted and open source.",
             "category": "Open Source",
@@ -346,7 +346,7 @@
           {
             "id": "para-cloud",
             "name": "Para Cloud",
-            "title": "Para Cloud | Erudika",
+            "title": "Para Cloud | Sudar Blogger",
             "tagline": "Fully managed Backend-as-a-Service (BaaS) with global availability.",
             "description": "Para Cloud is fully managed backend service with global availability and failover. It provides Para backend hosting with a generous free tier.",
             "category": "Cloud",
@@ -379,7 +379,7 @@
           {
             "id": "scoold-cloud",
             "name": "Scoold Cloud",
-            "title": "Scoold Cloud | Erudika",
+            "title": "Scoold Cloud | Sudar Blogger",
             "tagline": "The easiest way to deploy a Scoold Pro instance. Fully managed service, with pre-configured email, storage and automatic backup & upgrades.",
             "description": "Scoold Cloud is the fully managed hosting service for Scoold Pro - the premium version of the popular q-and-a platform Scoold.",
             "category": "Cloud",
@@ -618,7 +618,7 @@
     "meta": {
       "home": {
         "title": "Sudar Blogger | Personal Website",
-        "description": "A tiny EU-based software company, building backend and serverless solutions."
+        "description": "Hanyalah Blog Kecil yang bercerita tentang pengalaman, tutorial serta review product."
       },
       "about": {
         "title": "About Sudar Blogger",
@@ -633,7 +633,7 @@
         "description": "Support plans for Para and Scoold with SLA-backed response times."
       },
       "contact": {
-        "title": "Contact Sudar Blogger",
+        "title": "Contact | Sudar Blogger",
         "description": "Contact Erudika for product questions, support, and partnerships."
       },
       "blogIndex": {
@@ -657,7 +657,7 @@
         "description": "Erudika terms of service and usage guidelines."
       },
       "blogPage": {
-        "titleTemplate": "Erudika Blog | Page {page} | Backend & DevOps Insights",
+        "titleTemplate": "Sudar Blog | Page {page} | Backend & DevOps Insights",
         "description": "Release notes, architecture deep dives, and backend insights from Erudika."
       },
       "blogTags": {
@@ -665,8 +665,8 @@
         "description": "Explore Erudika blog posts by tag."
       },
       "blogTag": {
-        "titleTemplate": "{tag} Articles | Erudika",
-        "descriptionTemplate": "Browse all Erudika blog posts tagged {tag}. Engineering notes on {tag} from the team behind Para and Scoold."
+        "titleTemplate": "{tag} Articles | Sudar Blogger",
+        "descriptionTemplate": "Browse all Sudar Blogger blog posts tagged {tag}. Engineering notes on {tag} from the team behind Para and Scoold."
       }
     },
     "organization": {
@@ -675,10 +675,10 @@
       "logo": "https://www.sudarblogger.com/logo.png",
       "email": "admin@sudarblogger.com",
       "address": {
-        "street": "4 Lelinska chuka Street",
-        "locality": "Sofia",
-        "postalCode": "1618",
-        "country": "BG"
+        "street": "Ngimbang",
+        "locality": "Lamongan",
+        "postalCode": "62273",
+        "country": "Indonesia"
       }
     },
     "theme": {
