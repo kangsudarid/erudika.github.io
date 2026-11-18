@@ -15,7 +15,7 @@ const blogTeasers = (await getCollection("blog"))
   .map((post) => ({
     title: post.data.title,
     excerpt: post.data.excerpt,
-    date: post.data.date.toLocaleDateString("en-US", {
+    date: post.data.date.toLocaleDateString("id-ID", {
       year: "numeric",
       month: "short",
       day: "2-digit"
@@ -44,7 +44,7 @@ const orgJsonLd = {
     "https://bg.linkedin.com/company/erudika",
     "https://hub.docker.com/u/erudikaltd"
   ],
-  legalName: "Erudika EOOD",
+  legalName: "Sudar Blogger EOOD",
   vatID: "BG-200368755",
   foundingDate: "2008"
 };
