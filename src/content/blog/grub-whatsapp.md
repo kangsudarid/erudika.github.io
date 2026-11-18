@@ -4,8 +4,8 @@ date: 2022-07-09
 tags: ["blog", "whatsapp", "blogger"]
 author: "admin@sudarblogger.com"
 excerpt: "Bergabung Grub BlogwalkingAsyik, Bisa Bertemu Senior Blogger"
-img: "whatsapp"
-thumb: "whatsapp"
+img: "whatsapp1"
+thumb: "whatsapp1"
 ---
 ---
 
