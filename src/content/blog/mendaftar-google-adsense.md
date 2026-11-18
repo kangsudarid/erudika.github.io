@@ -63,7 +63,7 @@ Nah sekarang kita ke topik utama ya bagaimana bisa diterima  Google Adsense 100%
 
 Sebelum itu mari kita cek dulu apa aja syarat yang harus terpenuhi supaya di terima oleh Google Adsense ini sendiri
 
-###.Syarat Agar diterima Google Adsense
+### Syarat Agar diterima Google Adsense
 - Blog harus berumur setidaknya 6 bulan atau lebih setelah pembuatan blog itu sendiri (Berlaku untuk blog TLD dan Blogspot) 
 - Konten yang dibuat harus original atau bisa menggunakan pengalaman kamu seperti contoh artikel ini atau bisa baca blog kelayakan mendaftarkan google adsense
 - Blog mematuhi peraturan Google seperti tidak posting artikel pornografi, berbau teroris, konten hacking, dan tidak membahas tentang obat - obatan terlarang. 
